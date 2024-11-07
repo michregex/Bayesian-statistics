@@ -10,7 +10,6 @@ This repository contains the analysis and modeling of malignant melanoma mortali
 5. [Results and Conclusions](#results-and-conclusions)
 6. [Dependencies](#dependencies)
 7. [Usage](#usage)
-8. [References](#references)
 
 ## Introduction
 This analysis focuses on malignant melanoma, a severe form of skin cancer, examining its mortality rate across European regions from 1971 to 1980. By analyzing geographical variations and possible correlations with UVB exposure, this study aims to inform potential interventions to reduce mortality rates.
